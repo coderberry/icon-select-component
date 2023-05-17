@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/coderberry.icon-selector",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ygc0ynKkltTVfWFf7YR1 --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
